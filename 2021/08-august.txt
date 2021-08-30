@@ -168,3 +168,23 @@ http://205.185.123.172/i686
 http://37.0.8.217/bin/AkitaXss.mips
 http://107.175.69.166/0K4N3.sh
 http://212.192.241.127/eb0t.sh
+http://45.61.188.184/r.sh 
+http://45.61.188.184/.bu/fbot.mpsl
+http://45.61.188.184/.bu/fbot.mips
+http://45.61.188.184/.bu/fbot.arm
+http://45.61.188.184/.bu/fbot.arm5
+http://45.61.188.184/.bu/fbot.arm6
+http://45.61.188.184/.bu/fbot.arm7
+http://45.61.188.184/.bu/fbot.mipsel
+http://37.0.11.132/r&&sh
+http://api.cloudflood.net/linux-arm
+http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh 
+http://45.145.185.229/bins/keksec.mips
+http://45.61.188.184/b.sh
+http://45.61.188.184/re/r.mpsl
+http://45.61.188.184/re/r.mips
+http://45.61.188.184/re/r.arm
+http://45.61.188.184/re/r.arm7
+http://45.61.188.184/f.sh sh4
+http://45.61.188.184/re/r.mpsl
+http://107.175.69.166/0K4N3.sh
