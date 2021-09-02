@@ -16,3 +16,14 @@ http://185.150.117.103/m68k
 http://103.209.103.16:26800/ff.sh
 http://103.209.103.16:26800/xlinux
 http://104.168.98.105/bins/z0r0.arm7
+http://titanware.xyz/Fourlokov9/Fourlokov9.x86
+http://titanware.xyz/Fourlokov9/Fourlokov9.mips
+http://titanware.xyz/Fourlokov9/Fourlokov9.mpsl
+http://titanware.xyz/Fourlokov9/Fourlokov9.arm
+http://titanware.xyz/Fourlokov9/Fourlokov9.arm5
+http://titanware.xyz/Fourlokov9/Fourlokov9.arm6
+http://titanware.xyz/Fourlokov9/Fourlokov9.arm7
+http://titanware.xyz/Fourlokov9/Fourlokov9.ppc
+http://titanware.xyz/Fourlokov9/Fourlokov9.m68k
+http://titanware.xyz/Fourlokov9/Fourlokov9.sh4
+http://titanware.xyz/Fourlokov9/Fourlokov9.spc
